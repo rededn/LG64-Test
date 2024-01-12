@@ -1,0 +1,11 @@
+{
+	
+	"image": "memes",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "memes memes",
+	"confirm_anim": "memes memes"
+}

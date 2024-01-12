@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"lag",
+			"jasminu",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"swagness",
+			"jasminu",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"paz",
+			"jasminu",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "skirts",
+	"difficulties": "jasminutrainerone, jasminutrainertwo, jasminuhijab, jasminushirtslikelg, jasminuclassic, jasminuremake, jasminuredesign",
+	"weekCharacters": [
+		"",
+		"skirts",
+		""
+	],
+	"storyName": "jasminuskirts",
+	"weekName": "jasminuskirts",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,4 @@
+Value1:Text
+Value2:How long the text appears
+
+Edit the position,Width On .lua file

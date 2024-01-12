@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"middlescroll",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5.43478260869565,
+				[
+					[
+						"Change Botplay Text",
+						"kebiasaan pake botplay mulu:v",
+						""
+					]
+				]
+			],
+			[
+				391.304347826087,
+				[
+					[
+						"text flash",
+						"que suene, chicos",
+						"1.45"
+					]
+				]
+			]
+		]
+	}
+}

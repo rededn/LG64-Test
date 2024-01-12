@@ -1,0 +1,11 @@
+{
+	
+	"image": "friends",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "friends friends",
+	"confirm_anim": "friends friends"
+}

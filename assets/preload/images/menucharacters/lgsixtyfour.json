@@ -1,0 +1,11 @@
+{
+	
+	"image": "lgsixtyfour",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "lgsixtyfour lgsixtyfour",
+	"confirm_anim": "lgsixtyfouryes lgsixtyfouryes"
+}

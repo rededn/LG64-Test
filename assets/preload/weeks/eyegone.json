@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"where-my-eyes",
+			"iza",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"taimupingas",
+			"iza",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"revenge",
+			"iza",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "eyegone",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"eyegone",
+		""
+	],
+	"storyName": "EYEGONE REBOOT",
+	"weekName": "EYEGONE REBOOT",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "jasminu",
+	"startUnlocked": true
+}

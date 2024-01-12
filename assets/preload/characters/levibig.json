@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				22,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEVI LEFT0"
+		},
+		{
+			"offsets": [
+				-35,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LEVI DOWN0"
+		},
+		{
+			"offsets": [
+				-39,
+				257
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LEVI UP0"
+		},
+		{
+			"offsets": [
+				-68,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEVI RIGHT0"
+		},
+		{
+			"offsets": [
+				1,
+				181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LEVI IDLE0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/levibig",
+	"position": [
+		50,
+		300
+	],
+	"healthicon": "levi",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		-30,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

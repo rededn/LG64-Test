@@ -1,0 +1,11 @@
+{
+	
+	"image": "jasminu",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "jasminu jasminu",
+	"confirm_anim": "jasminu jasminu"
+}

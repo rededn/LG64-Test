@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boyblueice_GL2.png">
+<SubTexture name="Boyblueice_GL2 Idle0000" x="1556" y="0" width="378" height="876" frameX="-199" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0001" x="0" y="878" width="383" height="876" frameX="-194" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0002" x="383" y="878" width="383" height="876" frameX="-194" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0003" x="766" y="878" width="386" height="876" frameX="-191" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0004" x="1152" y="878" width="388" height="876" frameX="-189" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0005" x="396" y="0" width="390" height="877" frameX="-187" frameY="-268" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0006" x="1152" y="878" width="388" height="876" frameX="-189" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0007" x="766" y="878" width="386" height="876" frameX="-191" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0008" x="383" y="878" width="383" height="876" frameX="-194" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0009" x="0" y="878" width="383" height="876" frameX="-194" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Idle0010" x="1556" y="0" width="378" height="876" frameX="-199" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Left0000" x="1948" y="1754" width="410" height="875" frameX="-185" frameY="-270" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Left0001" x="1934" y="0" width="400" height="876" frameX="-189" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Left0002" x="0" y="0" width="396" height="878" frameX="-190" frameY="-268" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Left0003" x="2717" y="0" width="386" height="875" frameX="-195" frameY="-270" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Left0004" x="786" y="0" width="380" height="877" frameX="-198" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0000" x="2717" y="1750" width="376" height="874" frameX="-227" frameY="-271" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0001" x="0" y="2630" width="375" height="872" frameX="-222" frameY="-273" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0002" x="1934" y="876" width="378" height="876" frameX="-214" frameY="-270" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0003" x="2334" y="876" width="377" height="874" frameX="-214" frameY="-271" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0004" x="3103" y="0" width="374" height="874" frameX="-211" frameY="-271" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Right0005" x="2717" y="875" width="376" height="875" frameX="-201" frameY="-270" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0000" x="3477" y="874" width="376" height="873" frameX="-209" frameY="-272" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0001" x="375" y="2630" width="376" height="872" frameX="-205" frameY="-273" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0002" x="3477" y="1747" width="376" height="873" frameX="-203" frameY="-272" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0003" x="3477" y="0" width="376" height="874" frameX="-201" frameY="-271" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0004" x="1540" y="878" width="378" height="876" frameX="-199" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Up0005" x="2334" y="0" width="383" height="876" frameX="-194" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0000" x="1166" y="0" width="390" height="877" frameX="-187" frameY="-268" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0001" x="0" y="1754" width="388" height="876" frameX="-189" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0002" x="388" y="1754" width="388" height="876" frameX="-189" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0003" x="776" y="1754" width="390" height="876" frameX="-187" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0004" x="1166" y="1754" width="390" height="876" frameX="-187" frameY="-269" frameWidth="720" frameHeight="1221" />
+<SubTexture name="Boyblueice_GL2 Down0005" x="1556" y="1754" width="392" height="876" frameX="-185" frameY="-269" frameWidth="720" frameHeight="1221" />
+</TextureAtlas>

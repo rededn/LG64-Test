@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "CAMILA LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CAMILA DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CAMILA UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CAMILA RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "CAMILA IDLE0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/camispanish",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "camispanish",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		203,
+		183
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

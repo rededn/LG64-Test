@@ -1,0 +1,11 @@
+{
+	
+	"image": "dosglitch",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "dosglitch dosglitch",
+	"confirm_anim": "dosglitch dosglitch"
+}

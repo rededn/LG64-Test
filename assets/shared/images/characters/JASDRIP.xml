@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JASDRIP.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="JASDRIP IDLE0000" x="1409" y="0" width="344" height="577" frameX="-8" frameY="-8" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0001" x="1409" y="0" width="344" height="577" frameX="-8" frameY="-8" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0002" x="348" y="585" width="348" height="581" frameX="-11" frameY="-4" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0003" x="348" y="585" width="348" height="581" frameX="-11" frameY="-4" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0004" x="706" y="0" width="352" height="583" frameX="-8" frameY="-2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0005" x="706" y="0" width="352" height="583" frameX="-8" frameY="-2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0006" x="696" y="585" width="347" height="579" frameX="-7" frameY="-6" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP IDLE0007" x="1409" y="0" width="344" height="577" frameX="-8" frameY="-8" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP LEFT0000" x="332" y="1168" width="331" height="567" frameX="-9" frameY="-18" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP LEFT0001" x="332" y="1168" width="331" height="567" frameX="-9" frameY="-18" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP LEFT0002" x="0" y="1168" width="332" height="567" frameX="-11" frameY="-18" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP LEFT0003" x="0" y="1168" width="332" height="567" frameX="-11" frameY="-18" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP LEFT0004" x="332" y="1168" width="331" height="567" frameX="-9" frameY="-18" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP DOWN0000" x="0" y="0" width="354" height="585" frameX="-25" frameY="2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP DOWN0001" x="0" y="0" width="354" height="585" frameX="-25" frameY="2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP DOWN0002" x="354" y="0" width="352" height="584" frameX="-22" frameY="1" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP DOWN0003" x="354" y="0" width="352" height="584" frameX="-22" frameY="1" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP DOWN0004" x="0" y="0" width="354" height="585" frameX="-25" frameY="2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP UP0000" x="1043" y="585" width="343" height="579" frameX="-2" frameY="-6" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP UP0001" x="1043" y="585" width="343" height="579" frameX="-2" frameY="-6" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP UP0002" x="1409" y="577" width="339" height="575" frameX="-3" frameY="-10" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP UP0003" x="1409" y="577" width="339" height="575" frameX="-3" frameY="-10" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP UP0004" x="1043" y="585" width="343" height="579" frameX="-2" frameY="-6" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP RIGHT0000" x="0" y="585" width="348" height="583" frameX="-30" frameY="-2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP RIGHT0001" x="0" y="585" width="348" height="583" frameX="-30" frameY="-2" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP RIGHT0002" x="1058" y="0" width="351" height="584" frameX="-32" frameY="-1" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP RIGHT0003" x="1058" y="0" width="351" height="584" frameX="-32" frameY="-1" frameWidth="383" frameHeight="583"/>
+	<SubTexture name="JASDRIP RIGHT0004" x="0" y="585" width="348" height="583" frameX="-30" frameY="-2" frameWidth="383" frameHeight="583"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	
+	"image": "skirts",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "skirts skirts",
+	"confirm_anim": "skirts skirts"
+}

@@ -1,0 +1,315 @@
+{
+	"song": {
+		"player1": "playablejasminu",
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						0,
+						7,
+						0,
+						"No Animation"
+					],
+					[
+						1434.78260869565,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						1173.91304347826,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						1043.47826086957,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						782.608695652174,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						652.173913043478,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						521.739130434783,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						391.304347826087,
+						0,
+						0,
+						"Hey!"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						2739.13043478261,
+						0,
+						0
+					],
+					[
+						3130.4347826087,
+						2,
+						0
+					],
+					[
+						3391.30434782609,
+						2,
+						0
+					],
+					[
+						4043.47826086957,
+						1,
+						0,
+						"Hey!"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						5217.39130434783,
+						2,
+						0
+					],
+					[
+						5478.26086956522,
+						2,
+						0
+					],
+					[
+						4695.65217391304,
+						0,
+						0
+					],
+					[
+						4956.52173913043,
+						0,
+						0
+					],
+					[
+						6130.4347826087,
+						1,
+						0,
+						"Hey!"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						6913.04347826087,
+						0,
+						0
+					],
+					[
+						7173.91304347826,
+						0,
+						0
+					],
+					[
+						7434.78260869565,
+						2,
+						0
+					],
+					[
+						7695.65217391304,
+						2,
+						0
+					],
+					[
+						8217.39130434783,
+						1,
+						0,
+						"Hey!"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						8478.26086956522,
+						1,
+						0
+					],
+					[
+						8739.13043478261,
+						2,
+						0
+					],
+					[
+						9000,
+						1,
+						0
+					],
+					[
+						9521.73913043478,
+						1,
+						0
+					],
+					[
+						9782.60869565217,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						10434.7826086957,
+						1,
+						0
+					],
+					[
+						10826.0869565217,
+						2,
+						0,
+						"Hey!"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						12913.0434782609,
+						2,
+						0
+					],
+					[
+						13173.9130434783,
+						1,
+						0
+					],
+					[
+						12652.1739130435,
+						1,
+						0
+					],
+					[
+						13695.652173913,
+						1,
+						0
+					],
+					[
+						13956.5217391304,
+						2,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			}
+		],
+		"events": [
+			[
+				0,
+				[
+					[
+						"middlescroll",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"player2": "gf",
+		"song": "dijadiinsoundyagaes",
+		"needsVoices": true,
+		"stage": "levistage",
+		"speed": 1.8,
+		"bpm": 115
+	}
+}

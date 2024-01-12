@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 45,
+			"name": "Jasminu_playable Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 34,
+			"name": "Jasminu_playable Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 34,
+			"name": "Jasminu_playable Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				27
+			],
+			"anim": "singUP",
+			"fps": 34,
+			"name": "Jasminu_playable Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 34,
+			"name": "Jasminu_playable Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "hey",
+			"fps": 34,
+			"name": "Jasminu_playable Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jasminu_playable",
+	"position": [
+		-100,
+		-140
+	],
+	"healthicon": "jasminu",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		120,
+		255
+	],
+	"camera_position": [
+		-40,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Jasminu_Halloween.png">
+<SubTexture name="Jasminu_Halloween Idle0000" x="720" y="1194" width="678" height="1183" frameX="-255" frameY="-48" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0001" x="2861" y="1169" width="678" height="1167" frameX="-255" frameY="-64" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0002" x="2126" y="2378" width="678" height="1151" frameX="-255" frameY="-80" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0003" x="4228" y="0" width="678" height="1135" frameX="-255" frameY="-96" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0004" x="2126" y="2378" width="678" height="1151" frameX="-255" frameY="-80" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0005" x="2861" y="1169" width="678" height="1167" frameX="-255" frameY="-64" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Idle0006" x="720" y="1194" width="678" height="1183" frameX="-255" frameY="-48" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Down0000" x="0" y="3543" width="750" height="1120" frameX="-191" frameY="-111" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Down0001" x="2804" y="2378" width="750" height="1140" frameX="-191" frameY="-91" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Down0002" x="1376" y="2378" width="750" height="1157" frameX="-191" frameY="-74" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Down0003" x="2063" y="1194" width="750" height="1173" frameX="-191" frameY="-58" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Left0000" x="665" y="0" width="738" height="1189" frameX="-169" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Left0001" x="1403" y="0" width="732" height="1188" frameX="-187" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Left0002" x="2135" y="0" width="726" height="1187" frameX="-207" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Left0003" x="0" y="1194" width="720" height="1184" frameX="-222" frameY="-50" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Right0000" x="687" y="2378" width="689" height="1163" frameX="-301" frameY="-70" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Right0001" x="0" y="2378" width="687" height="1165" frameX="-290" frameY="-67" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Right0002" x="3543" y="0" width="685" height="1167" frameX="-278" frameY="-64" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Right0003" x="2861" y="0" width="682" height="1169" frameX="-267" frameY="-61" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Up0000" x="4228" y="1135" width="665" height="1134" frameX="-262" frameY="-97" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Up0001" x="3543" y="1167" width="665" height="1153" frameX="-262" frameY="-78" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Up0002" x="1398" y="1194" width="665" height="1174" frameX="-262" frameY="-57" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="Jasminu_Halloween Up0003" x="0" y="0" width="665" height="1194" frameX="-262" frameY="-37" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

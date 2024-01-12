@@ -1,0 +1,113 @@
+{
+	"songs": [
+		[
+			"sliced",
+			"jasminuglitch",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"atrocity",
+			"levi",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"anomali",
+			"jasminu",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"omnipresent",
+			"jasminu",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"fading",
+			"iza",
+			[
+				255,
+				93,
+				0
+			]
+		],
+		[
+			"nightshift",
+			"iza",
+			[
+				255,
+				93,
+				0
+			]
+		],
+		[
+			"lamprey-hole",
+			"jasminu",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"too-fest",
+			"jasminudrip",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"ballistic",
+			"camispanish",
+			[
+				206,
+				113,
+				173
+			]
+		],
+		[
+			"absorbent",
+			"boyblue",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "cover",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "skirts",
+	"startUnlocked": true
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"pake-nanya-vone",
+			"cursedlevi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "pake nanaya",
+	"weekName": "pake nanya",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "memes",
+	"startUnlocked": true
+}

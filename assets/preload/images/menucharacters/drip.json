@@ -1,0 +1,11 @@
+{
+	
+	"image": "drip",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "drip drip",
+	"confirm_anim": "drip drip"
+}

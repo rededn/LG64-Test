@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"mbakbro",
+			"mbakbro",
+			[
+				206,
+				113,
+				0
+			]
+		],
+		[
+			"pake-nanya",
+			"cursedlevi",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"ip",
+			"jasminutrainertwo",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"dijadiinsoundyagaes",
+			"jasminu",
+			[
+				0,
+				180,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "s",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"memes",
+		""
+	],
+	"storyName": "Joke momentos",
+	"weekName": "memes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "skirts",
+	"startUnlocked": true
+}

@@ -1,0 +1,11 @@
+{
+	
+	"image": "eyegone",
+	"position": [
+		490,
+		65
+	],
+	"scale": 1,
+	"idle_anim": "eyegone eyegone",
+	"confirm_anim": "eyegone eyegone"
+}

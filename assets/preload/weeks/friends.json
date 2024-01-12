@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"sunshine",
+			"greeg",
+			[
+				0,
+				255,
+				93
+			]
+		],
+		[
+			"fire",
+			"fara",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"hojita-suave",
+			"camispanish",
+			[
+				255,
+				213,
+				175
+			]
+		],
+		[
+			"knife-strike",
+			"boyblue",
+			[
+				100,
+				95,
+				255
+			]
+		],
+		[
+			"rancage",
+			"raiden",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "friends",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"friends",
+		""
+	],
+	"storyName": "LG64-FRIEND",
+	"weekName": "LG64 FRIENDS",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "eyegone",
+	"startUnlocked": true
+}

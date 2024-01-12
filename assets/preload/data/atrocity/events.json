@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"autoBBsettings",
+						"true",
+						"2"
+					]
+				]
+			],
+			[
+				9710.52631578947,
+				[
+					[
+						"Hey!",
+						"BF",
+						"0.6"
+					]
+				]
+			],
+			[
+				30394.7368421053,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"0.8"
+					]
+				]
+			],
+			[
+				131447.368421052,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					],
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"90"
+					],
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"leviplaysomeguitarepicbig"
+					],
+					[
+						"Change Botplay Text",
+						"Yeah guitar man",
+						""
+					],
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1.3"
+					]
+				]
+			],
+			[
+				141552.631578947,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"1"
+					]
+				]
+			],
+			[
+				151657.894736842,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"0"
+					],
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				151671.052631579,
+				[
+					[
+						"Bitto's zoom event",
+						"regular",
+						"0.9"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-174
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "JASDRIP LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-174
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "JASDRIP DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-174
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "JASDRIP UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-173
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JASDRIP RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "JASDRIP IDLE0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JASDRIP",
+	"position": [
+		50,
+		60
+	],
+	"healthicon": "jasminu",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-10,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
